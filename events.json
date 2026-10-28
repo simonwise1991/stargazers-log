@@ -1,0 +1,30 @@
+[
+	{
+		"name": "ohmyzsh/ohmyzsh",
+		"url": "https://github.com/ohmyzsh/ohmyzsh",
+		"description": "A community-driven framework for managing your zsh configuration.",
+		"language": "Shell",
+		"starredAt": "2026-10-24"
+	},
+	{
+		"name": "TheAlgorithms/Python",
+		"url": "https://github.com/TheAlgorithms/Python",
+		"description": "All algorithms implemented in Python, for educational purposes.",
+		"language": "Python",
+		"starredAt": "2026-10-18"
+	},
+	{
+		"name": "sindresorhus/awesome",
+		"url": "https://github.com/sindresorhus/awesome",
+		"description": "A curated list of awesome lists.",
+		"language": "Community",
+		"starredAt": "2026-10-09"
+	},
+	{
+		"name": "vitejs/vite",
+		"url": "https://github.com/vitejs/vite",
+		"description": "Next generation frontend tooling.",
+		"language": "TypeScript",
+		"starredAt": "2026-09-28"
+	}
+]
